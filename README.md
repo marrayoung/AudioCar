@@ -19,4 +19,10 @@ Built an autonomous robot car that localizes and navigates toward sound sources 
 - Motor imbalance and calibration
 - Noise rejection in real environments
 
+## Full Technical Documentation
+
+For a complete, in-depth overview of the Audio Car project — including design decisions, architecture diagrams, signal processing details, and validation results — see the full technical documentation:
+
+👉 **[Audio Car Technical Documentation (66 pages)](https://docs.google.com/document/d/1kc4WQb880WixKpE3XRnSfr8OEeL7sDc9x22PLyzH7cQ/edit?usp=sharing)**
+
 
