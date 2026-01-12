@@ -1,2 +1,22 @@
-# AudioCar
-Autonomous robot car that detects, filters, and navigates toward sound sources at specific frequencies (4186 Hz and 1046 Hz).
+## Audio-Following Robot Car
+Team project (5 members)
+Built an autonomous robot car that localizes and navigates toward sound sources at specific frequencies using embedded signal processing and motor control.
+
+## My contributions:
+- Designed and implemented a custom ADC for audio signal sampling
+- Co-developed embedded control code for sound-based navigation
+- Implemented PWM motor control and speed calibration logic
+- Debugged system-level issues including noise sensitivity and motor drift
+
+## Tech Stack
+- Raspberry Pi / Microcontroller
+- Analog filters (custom design)
+- ADC implementation
+- DC motors + motor driver
+
+## Challenges & Engineering Decisions
+- Frequency diffraction causing rear-source ambiguity
+- Motor imbalance and calibration
+- Noise rejection in real environments
+
+
